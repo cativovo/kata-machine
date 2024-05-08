@@ -2,8 +2,8 @@ module.exports = {
     dsa: [
         // "DFSOnBST",
         // "LRU",
-        "LinearSearchList",
-        // "BinarySearchList",
+        // "LinearSearchList",
+        "BinarySearchList",
         // "TwoCrystalBalls",
         // "BubbleSort",
         // "SinglyLinkedList",
